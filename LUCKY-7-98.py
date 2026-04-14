@@ -1,8 +1,12 @@
 # ============================================================
 # CFOS-XG PRO 75 TITAN - VERSION 7-3
 # FIXED PRODUCTION VERSION (LUCKY-7-82-fixed.py)
+# fix errors and connect all parts of this CFOS system, preserve logic
+
+
+
 # ZAČETEK DELA 1 / 8
-# OSNOVA SISTEMA
+# OSNOVA SISTEMA    
 # ============================================================
 #
 # ============================================================
